@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2026
 - [Top AI Papers of the Week (July 5 - July 12)](years/2026.md#top-ai-papers-of-the-week-july-5---july-12---2026)
+- [Top AI Papers of the Week (June 28 - July 5)](years/2026.md#top-ai-papers-of-the-week-june-28---july-5---2026)
 - [Top AI Papers of the Week (June 21 - June 28)](years/2026.md#top-ai-papers-of-the-week-june-21---june-28---2026)
 - [Top AI Papers of the Week (June 14 - June 21)](years/2026.md#top-ai-papers-of-the-week-june-14---june-21---2026)
 - [Top AI Papers of the Week (June 7 - June 14)](years/2026.md#top-ai-papers-of-the-week-june-7---june-14---2026)
